@@ -1,0 +1,6 @@
+datasets
+tokenizers
+pyserini
+faiss-cpu
+torch
+jupyterlab
