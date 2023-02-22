@@ -1,6 +1,8 @@
 datasets
+torch
 tokenizers
 pyserini
 faiss-cpu
-torch
 jupyterlab
+nltk
+ipywidgets
